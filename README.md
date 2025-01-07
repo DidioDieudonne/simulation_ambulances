@@ -54,5 +54,6 @@ Le projet repose sur une architecture à base d’agents. Voici les agents princ
   - BIABA KUYA Jirince
   - BYAOMBE MWINDULWA Dieudonné
   - TOUMBA NGONGO Christine
-Sous la direction de Prof. Manh Hung Nguyen
+  
+### Sous la direction de Prof. Manh Hung Nguyen
 
